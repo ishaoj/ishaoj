@@ -2,6 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <a href="https://linkedin.com/in/isha-ojha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="isha-ojha" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/isha_oj#3115" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="isha_oj#3115" height="40" width="30" /></a>&nbsp;
+<a href="http://instagram.com/users/isha_oj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="isha_oj" height="40" width="30" /></a>&nbsp;
+
 
 
 :woman_technologist: About Me:
