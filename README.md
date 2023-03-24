@@ -1,9 +1,13 @@
 <h2> Hi, I'm Isha Ojha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<a href="https://linkedin.com/in/isha-ojha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="isha-ojha" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/isha_oj#3115" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="isha_oj#3115" height="40" width="30" /></a>&nbsp;
-<a href="http://instagram.com/users/isha_oj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="isha_oj" height="40" width="30" /></a>&nbsp;
-
+<a href="https://www.instagram.com/isha_oj/">
+  <img align="left" alt="Isha's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/MCCqRvCEuD/">
+  <img align="left" alt="Isha's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/isha-ojha/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 :woman_technologist: About Me:
