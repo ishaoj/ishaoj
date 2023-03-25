@@ -2,25 +2,26 @@
 <a href="https://www.instagram.com/isha_oj/">
   <img align="left" alt="Isha's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/MCCqRvCEuD/">
+<a href="https://discord.gg/ScrR4qrc/">
   <img align="left" alt="Isha's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/isha-ojha/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Isha's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
 :woman_technologist: About Me:
 
+
 I'm Artificial Intelligence and Machine Learning undergrade.
 
-I am tech enthusiast who has just began with cp.
+I am tech enthusiast who has just began with Competetiive Coding.
 
-I am well versed with algo and dsa.
+I am well versed with Data Structures and Algorithm.
 
-I know java,c,c++ and python.
+I am looking forward to start with Full Stack Development.
 
-I am looking forward to start with full stack development.
+Languages Knowns: Java,C,C++,Python.
 
 
 [![Isha's github stats](https://github-readme-stats.vercel.app/api?username=ishaoj)](https://github.com/ishaoj/github-readme-stats)
