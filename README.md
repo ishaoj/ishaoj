@@ -15,7 +15,7 @@
 
 I'm Artificial Intelligence and Machine Learning undergrade.
 
-I am tech enthusiast who has just began with Competetiive Coding.
+I am tech enthusiast who has just began with Competitive Coding.
 
 I am well versed with Data Structures and Algorithm.
 
