@@ -21,7 +21,7 @@ I am well versed with Data Structures and Algorithm.
 
 I am looking forward to start with Full Stack Development.
 
-Languages Knowns: Java,C,C++,Python.
+Languages Knowns: Java,C,C++,Python,JavaScript,Html,CSS.
 
 
 [![Isha's github stats](https://github-readme-stats.vercel.app/api?username=ishaoj)](https://github.com/ishaoj/github-readme-stats)
