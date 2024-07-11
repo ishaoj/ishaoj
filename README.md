@@ -24,7 +24,7 @@ I am looking forward to start with Full Stack Development.
 Languages Knowns: Java,C,C++,Python,JavaScript,Html,CSS.
 
 
-[![Isha's github stats](https://github-readme-stats.vercel.app/api?username=ishaoj)](https://github.com/ishaoj/github-readme-stats)
+
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> how about a chat? <b> :)</em>
