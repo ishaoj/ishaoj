@@ -1,18 +1,38 @@
-<h2 align="center">Hi, I'm Isha Ojha! 🎓</h2> <p align="center"> <em><b>CSE (AI & ML) Undergraduate | Pre-final Year | Tech Enthusiast</b></em> </p>
-🌟 About Me
-I’m Isha Ojha, a pre-final year undergraduate in Computer Science and Engineering (AI & ML), graduating in 2026.
+# 🌟 Welcome to Isha Ojha's GitHub Profile! 🌟
 
-My journey in technology is fueled by a deep passion for learning, creating, and solving challenges through innovative ideas. Driven by curiosity and a love for exploration, I thrive on the intersection of technology and human connection. I aspire to make a meaningful impact by leveraging my skills and creativity to address real-world problems.
+![Profile Banner](https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg)
 
-Beyond my technical pursuits, I’m an empath who values connecting with people and understanding their unique stories. I believe innovation flourishes when diverse minds come together to share, learn, and grow.
+## 🚀 About Me
+Hi, I'm **Isha Ojha**, and yes—I’ve passed the “I’m not a robot” test with flying colors!  
+Engineering is my chosen path, driven by a genuine love for creating, solving, and exploring new ideas.  
+My journey in this field is fueled by curiosity and a desire to make a meaningful impact through technology.
 
-💡 Skills & Expertise
-Programming Languages: Python, Java
-Problem-Solving: Data Structures and Algorithms (DSA)
-Core Focus: Machine Learning (ML)
-🎨 Hobbies & Interests
-Sports Enthusiast: Playing volleyball and cricket
-Creative Expression: Singing to unwind and explore my artistic side
-🎯 Current Goals
-I am actively seeking industry experience through internships and impactful projects to bridge the gap between academics and real-world applications.
+Beyond the code and algorithms, I’m passionate about exploring the world, learning from diverse experiences, and seeking out new perspectives.  
+This sense of discovery keeps me motivated, both professionally and personally, as I continue to grow and evolve.  
 
+At heart, I’m an empath who values connecting with people and understanding their unique stories.  
+Let’s connect and share ideas—I believe we’re all better when we explore and innovate together.  
+
+---
+
+## 🛠️ My Tech Stack
+Here are the tools and technologies I work with:
+- **Languages:** Python, Java, C++, SQL
+- **Libraries:** Pandas, NumPy
+
+---
+
+## 🎖️ Achievements & Certifications
+- 🏆 Prefinalist at **Myntra HackerRamp**  
+- 🏅 TCS CodeVita Season 11, **Rank: 1726**
+
+---
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/isha-ojha/)  
+- 📧 Email: ishaojha41@gmail.com  
+
+---
+
+
+**Thanks for visiting my profile! Have a great day! 😊**
