@@ -1,4 +1,4 @@
-# 🌟 Welcome to Isha Ojha's GitHub Profile! 🌟
+# 🌟 Welcome to Isha Ojha's Profile! 🌟
 
 ![Profile Banner](https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg)
 
